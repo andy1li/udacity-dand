@@ -2,3 +2,6 @@
 
 *__pycache__/
 *.pyc
+
+P3-Wrangle/osm/Xian-Xianyang.osm
+P3-Wrangle/csv/*.csv
